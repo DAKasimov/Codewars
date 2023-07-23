@@ -14,7 +14,7 @@ function expandedForm(value){
     for (let x of str_value){
         res_str += x + '+'
     }
-    
+
     console.log(res_str)
 }
 
